@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add HUB-SDK docs (#7775)
