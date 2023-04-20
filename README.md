@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
