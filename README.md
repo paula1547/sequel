@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Update TFLite Docs images (#8605)
