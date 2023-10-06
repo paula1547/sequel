@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Faster batch same_shapes (#8851)
