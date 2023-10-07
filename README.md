@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Add YOLOv8 LibTorch C++ inference example (#7090)
