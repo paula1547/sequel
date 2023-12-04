@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
