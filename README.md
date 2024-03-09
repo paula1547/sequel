@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Fix cmake requirements for ARM64 (#8589)
