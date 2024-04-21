@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Fix cmake requirements for ARM64 (#8589)
