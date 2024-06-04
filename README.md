@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Add dota8.yaml and O tests (#7394)
