@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Updating a typo on paddlepaddle.md (#9108)
